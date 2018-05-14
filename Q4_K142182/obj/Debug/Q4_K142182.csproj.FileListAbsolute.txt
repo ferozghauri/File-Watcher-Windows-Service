@@ -1,0 +1,8 @@
+E:\Q4_K142182\Q4_K142182\bin\Debug\Q4_K142182.exe.config
+E:\Q4_K142182\Q4_K142182\bin\Debug\Q4_K142182.exe
+E:\Q4_K142182\Q4_K142182\bin\Debug\Q4_K142182.pdb
+E:\Q4_K142182\Q4_K142182\obj\Debug\Q4_K142182.csprojResolveAssemblyReference.cache
+E:\Q4_K142182\Q4_K142182\obj\Debug\Q4_K142182.ProjectInstaller.resources
+E:\Q4_K142182\Q4_K142182\obj\Debug\Q4_K142182.csproj.GenerateResource.Cache
+E:\Q4_K142182\Q4_K142182\obj\Debug\Q4_K142182.exe
+E:\Q4_K142182\Q4_K142182\obj\Debug\Q4_K142182.pdb

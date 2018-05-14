@@ -1,0 +1,15 @@
+﻿Installing assembly 'E:\Q4_K142182\Q4_K142182\bin\Debug\Q4_K142182.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Q4_K142182\Q4_K142182\bin\Debug\Q4_K142182.InstallLog
+   assemblypath = E:\Q4_K142182\Q4_K142182\bin\Debug\Q4_K142182.exe
+   logtoconsole = 
+Installing service FolderMonitor...
+Service FolderMonitor has been successfully installed.
+Creating EventLog source FolderMonitor in log Application...
+Committing assembly 'E:\Q4_K142182\Q4_K142182\bin\Debug\Q4_K142182.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Q4_K142182\Q4_K142182\bin\Debug\Q4_K142182.InstallLog
+   assemblypath = E:\Q4_K142182\Q4_K142182\bin\Debug\Q4_K142182.exe
+   logtoconsole = 
